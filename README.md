@@ -37,7 +37,7 @@ hit "enter" key for typing a letter on the screen
 
  Vlada Pulbere    [@peoplecallitinsanity](https://github.com/peoplecallitinsanity)
  
- Anastasia Panfil    [@peoplecallitinsanity](https://github.com/anastasiaapanfil)
+ Anastasia Panfil    [@anastasiaapanfil](https://github.com/anastasiaapanfil)
 
 
 Resources
